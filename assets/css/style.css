@@ -1,11 +1,13 @@
 @import url(../css/header.css);
 @import url(../css/sobrenos.css);
+@import url(../css/vagas.css);
 
 :root {
   --fonte: 'Inter', 'sans-serif';
   --cinza-escuro: #101828;
   --cinza-medio: #3A404E;
   --cinza-claro: #667085;
+  --cinza-super-claro: #EAECF0;
   --branco: #FFFFFF;
   --vermelho: #8E2424;
 }
