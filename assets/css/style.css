@@ -1,15 +1,22 @@
-@import url(../css/header.css);
+@import url(../css/cabecalho.css);
 @import url(../css/sobrenos.css);
 @import url(../css/vagas.css);
+@import url(../css/matricas.css);
+@import url(../css/depoimentos.css);
+@import url(../css/rodape.css);
 
 :root {
   --fonte: 'Inter', 'sans-serif';
   --cinza-escuro: #101828;
   --cinza-medio: #3A404E;
   --cinza-claro: #667085;
-  --cinza-super-claro: #EAECF0;
+  --cinza-200: #EAECF0;
+  --cinza-50: #F9FAFB;
+  --cinza-400: #98A2B3;
   --branco: #FFFFFF;
   --vermelho: #8E2424;
+  --vermelho-claro: rgba(142, 36, 36, 0.03);
+  --azul: rgba(16, 24, 40, 0.05);
 }
 
 body {

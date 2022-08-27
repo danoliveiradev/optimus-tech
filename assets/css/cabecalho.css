@@ -1,0 +1,36 @@
+.cabecalho {
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem 5rem;
+}
+
+.container__cabecalho {
+  display: flex;
+  align-items: center;
+}
+
+.cabecalho__titulo {
+  color: var(--cinza-medio);
+  font-size: 18px;
+  font-weight: 500;
+  padding-left: .5rem;
+}
+
+.opcoes {
+  display: flex;
+  padding-left: 10rem;
+}
+
+.opcoes__lista-link {
+  color: var(--cinza-claro);
+  font-weight: 500;
+  padding-right: 2rem;
+}
+
+.link-cadastrar {
+  color: var(--branco);
+  font-weight: 500;
+  background-color: var(--vermelho);
+  border-radius: 8px;
+  padding: 1rem;
+}

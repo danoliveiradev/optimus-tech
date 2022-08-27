@@ -1,0 +1,35 @@
+.metricas {
+  padding: 2rem 4rem 6rem 4rem;
+  text-align: center;
+}
+
+.metricas__lista {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+}
+
+.metricas__lista-item {
+  text-align: start;
+}
+
+.lista__item-espaco {
+  margin-right: 3rem;
+}
+
+.metricas__lista-numero {
+  color: var(--vermelho);
+  font-weight: 600;
+  font-size: 60px;
+}
+
+.metricas__lista-titulo {
+  color: var(--cinza-escuro);
+  font-weight: 500;
+  font-size: 18px;
+  margin: 1rem 0 .8rem 0;
+}
+
+.metricas__lista-descricao {
+  color: var(--cinza-claro);
+  line-height: 24px;
+}
