@@ -24,8 +24,8 @@
 }
 
 .sobre__lista {
-  display: flex;
-  justify-content: center;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
 }
 
 .sobre__lista-item {
