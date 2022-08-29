@@ -31,4 +31,4 @@ Através desses links você terá acesso a [Página web](https://danoliveiradev.
 
 ## 🔐 **Licença**
 
-Este projeto está licenciado nos termos da [licença MIT](https://github.com/danoliveiradev/readme/blob/c1be2c0daacda0a944d2596ea78fbe98d37d0680/LICENSE.txt).
+Este projeto está licenciado nos termos da [licença MIT](LICENSE).
