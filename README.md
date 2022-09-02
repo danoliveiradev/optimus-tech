@@ -1,7 +1,7 @@
 # **Optimus Tech**
 
 ![Badge Licensa](https://img.shields.io/github/license/danoliveiradev/optimus-tech?label=LICENSA&style=flat-square)
-![Badge em Desenvolvimento](https://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=red&style=flat-square)
+![Badge em Desenvolvimento](https://img.shields.io/static/v1?label=STATUS&message=FINALIZADO&color=red&style=flat-square)
 
 ## 📝 **Descrição**
 
